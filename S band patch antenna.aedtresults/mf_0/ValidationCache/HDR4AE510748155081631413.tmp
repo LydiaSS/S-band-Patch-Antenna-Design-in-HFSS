@@ -1,0 +1,32 @@
+$begin 'ValidationCache'
+	$begin 'OneValidationResult'
+		Variation='$c=\'299792458m_per_sec\' $f=\'2.25GHz\' a=\'0.0405439732880297m\' b=\'0.0313952913791514m\' c=\'299792458m_per_sec\' Dd=\'0.00209585017342337meter\' Di=\'0.00091meter\' dL=\'0.000164084154521349meter\' Do=\'4.95mm\' Ec=\'1F_per_m\' Ee=\'4.41016958223446F_per_m\' Er=\'4.4F_per_m\' FeedX=\'12mm\' FeedY=\'15.4968359293344mm\' fr=\'2.25GHz\' Gx=\'83mm\' Gy=\'114.3mm\' h=\'1.56mm\' subX=\'83mm\' subY=\'114.3mm\' Zc=\'50ohm\''
+		Status=true
+		FileName='VIF4C1354815510625015.tmp'
+	$end 'OneValidationResult'
+	$begin 'OneValidationResult'
+		Variation='$c=\'299792458m_per_sec\' $f=\'2.25GHz\' a=\'0.0405439732880297m\' b=\'0.0313952913791514m\' c=\'299792458m_per_sec\' Dd=\'0.00209585017342337meter\' Di=\'0.00091meter\' dL=\'0.000164084154521349meter\' Do=\'4.95mm\' Ec=\'1F_per_m\' Ee=\'4.41016958223446F_per_m\' Er=\'4.4F_per_m\' FeedX=\'7mm\' FeedY=\'0\' fr=\'2.25GHz\' Gx=\'83mm\' Gy=\'114.3mm\' h=\'1.56mm\' subX=\'83mm\' subY=\'114.3mm\' Zc=\'50ohm\''
+		Status=true
+		FileName='VI2EAD13548155106496119.tmp'
+	$end 'OneValidationResult'
+	$begin 'OneValidationResult'
+		Variation='$c=\'299792458m_per_sec\' $f=\'2.25GHz\' a=\'0.0405439732880297m\' b=\'0.0313952913791514m\' c=\'299792458m_per_sec\' Dd=\'0.00318067762073468meter\' Di=\'0.00091meter\' dL=\'0.000164084154521349meter\' Do=\'4.95mm\' Ec=\'2.25F_per_m\' Ee=\'4.41016958223446F_per_m\' Er=\'4.4F_per_m\' FeedX=\'12mm\' FeedY=\'15.4968359293344mm\' fr=\'2.25GHz\' Gx=\'83mm\' Gy=\'114.3mm\' h=\'1.56mm\' subX=\'83mm\' subY=\'114.3mm\' Zc=\'50ohm\''
+		Status=true
+		FileName='VI52DA8560155098752226.tmp'
+	$end 'OneValidationResult'
+	$begin 'OneValidationResult'
+		Variation='$c=\'299792458m_per_sec\' $f=\'2.25GHz\' a=\'0.0405439732880297m\' b=\'0.0313952913791514m\' c=\'299792458m_per_sec\' Dd=\'0.00318067762073468meter\' Di=\'0.00091meter\' dL=\'0.000164084154521349meter\' Do=\'4.95mm\' Ec=\'2.25F_per_m\' Ee=\'4.41016958223446F_per_m\' Er=\'4.4F_per_m\' FeedX=\'5mm\' FeedY=\'0mm\' fr=\'2.25GHz\' Gx=\'83mm\' Gy=\'114.3mm\' h=\'1.56mm\' subX=\'83mm\' subY=\'114.3mm\' Zc=\'50ohm\''
+		Status=true
+		FileName='VI459C8560155098648413.tmp'
+	$end 'OneValidationResult'
+	$begin 'OneValidationResult'
+		Variation='$c=\'299792458m_per_sec\' $f=\'2.25GHz\' a=\'0.0405439732880297m\' b=\'0.0313952913791514m\' c=\'299792458m_per_sec\' Dd=\'0.00318067762073468meter\' Di=\'0.00091meter\' dL=\'0.000164084154521349meter\' Do=\'4.95mm\' Ec=\'2.25F_per_m\' Ee=\'4.41016958223446F_per_m\' Er=\'4.4F_per_m\' FeedX=\'5mm\' FeedY=\'6.45701497055601mm\' fr=\'2.25GHz\' Gx=\'83mm\' Gy=\'114.3mm\' h=\'1.56mm\' subX=\'83mm\' subY=\'114.3mm\' Zc=\'50ohm\''
+		Status=true
+		FileName='VI4796954815508561923.tmp'
+	$end 'OneValidationResult'
+	$begin 'OneValidationResult'
+		Variation='$c=\'299792458m_per_sec\' $f=\'2.25GHz\' a=\'0.0405439732880297m\' b=\'0.0313952913791514m\' c=\'299792458m_per_sec\' Dd=\'0.00318067762073468meter\' Di=\'0.00091meter\' dL=\'0.000164084154521349meter\' Do=\'4.95mm\' Ec=\'2.25F_per_m\' Ee=\'4.41016958223446F_per_m\' Er=\'4.4F_per_m\' FeedX=\'7mm\' FeedY=\'9.03982095877841mm\' fr=\'2.25GHz\' Gx=\'83mm\' Gy=\'114.3mm\' h=\'1.56mm\' subX=\'83mm\' subY=\'114.3mm\' Zc=\'50ohm\''
+		Status=true
+		FileName='VI4DF78560155098713918.tmp'
+	$end 'OneValidationResult'
+$end 'ValidationCache'

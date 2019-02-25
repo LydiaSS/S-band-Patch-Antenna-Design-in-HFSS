@@ -1,0 +1,7 @@
+$begin 'ValidationCache'
+	$begin 'OneValidationResult'
+		Variation='$c=\'299792458m_per_sec\' $f=\'2.25GHz\' a=\'0.0405439732880297m\' b=\'0.0313952913791514m\' c=\'299792458m_per_sec\' Dd=\'0.00318067762073468meter\' Di=\'0.00091meter\' dL=\'0.000164084154521349meter\' Do=\'4.95mm\' Ec=\'2.25F_per_m\' Ee=\'4.41016958223446F_per_m\' Er=\'4.4F_per_m\' FeedX=\'5mm\' FeedY=\'6.45701497055601mm\' fr=\'2.25GHz\' h=\'1.56mm\' Zc=\'50ohm\''
+		Status=true
+		FileName='VI5F669548155085805910.tmp'
+	$end 'OneValidationResult'
+$end 'ValidationCache'
