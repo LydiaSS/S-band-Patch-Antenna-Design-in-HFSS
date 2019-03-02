@@ -107,4 +107,38 @@ $begin 'Profile'
 		ProfileTask('', 0, 0, 0, 0, 0, '', false, true)
 		ProfileTask('Solution Process', 0, 0, 0, 0, 0, 'Elapsed time : 00:00:31 , Hfss ComEngine Memory : 57.8 M', false, true)
 	$end 'ProfileGroup'
+	$begin 'ProfileGroup'
+		StartInfo='Time:  03/01/2019 16:20:23; Host: ALBERTASAT-04; Processor: 8; OS: NT 10.0; HFSS 2019.1.0'
+		TotalInfo='Time:  03/01/2019 16:20:23, Status: Normal Completion'
+		ProfileTask('', 0, 0, 0, 0, 0, 'Executing from C:\\Program Files\\AnsysEM\\AnsysEM19.3\\Win64\\HFSSCOMENGINE.exe', false, true)
+		ProfileTask('', 0, 0, 0, 0, 0, 'HPC Enabled', false, true)
+		ProfileTask('', 0, 0, 0, 0, 0, 'Allow off core: True', false, true)
+		ProfileTask('', 0, 0, 0, 0, 0, 'Using automatic settings', false, true)
+		ProfileTask('', 0, 0, 0, 0, 0, 'Machines:', false, true)
+		ProfileTask('', 0, 0, 0, 0, 0, 'ALBERTASAT-04.labs.engineering.ualberta.ca [32.0 GB]: RAM Limit: 90.000000%, 3 cores', false, true)
+		ProfileTask('', 0, 0, 0, 0, 0, 'Solution Basis Order: 1', false, true)
+		ProfileTask('', 0, 0, 0, 0, 0, '', false, true)
+		ProfileTask('', 0, 0, 0, 0, 0, 'Adaptive Passes converged', false, true)
+		ProfileTask('', 0, 0, 0, 0, 0, '', false, true)
+		ProfileTask('Frequency Sweep', 0, 0, 0, 0, 0, 'Time:  03/01/2019 16:20:23', false, true)
+		ProfileTask('', 0, 0, 0, 0, 0, '', false, true)
+		ProfileTask('Solution: Sweep1', 0, 0, 0, 0, 0, 'Interpolating HFSS Frequency Sweep, Solving Distributed - up to 3 frequencies in parallel', false, true)
+		ProfileTask('', 0, 0, 0, 0, 0, 'From 1GHz to 10GHz, 451 Frequencies', false, true)
+		ProfileTask('', 0, 0, 0, 0, 0, 'Basis Element # 1, Frequency: 10GHz; Additional basis points are needed before the interpolation error can be computed.', false, true)
+		ProfileTask('', 0, 0, 0, 0, 0, 'Basis Element # 2, Frequency: 1GHz; Additional basis points are needed before the interpolation error can be computed.', false, true)
+		ProfileTask('', 0, 0, 0, 0, 0, 'Basis Element # 3, Frequency: 5.5GHz; Gamma Error =  67.610%', false, true)
+		ProfileTask('', 0, 0, 0, 0, 0, 'Basis Element # 4, Frequency: 2.2GHz; Scattering matrix quantities converged; Passive within tolerance', false, true)
+		ProfileTask('', 0, 0, 0, 0, 0, '', false, true)
+		ProfileTask('', 0, 0, 0, 0, 0, 'Using previously solved data. No additional simulations required', false, true)
+		ProfileTask('', 0, 0, 0, 0, 0, '', false, true)
+		ProfileTask('', 0, 0, 0, 0, 0, 'Interpolating sweep converged and is passive', false, true)
+		ProfileTask('Distributed Interpolating Frequency Sweep', 0, 0, 0, 0, 0, 'HFSS: Elapsed Time: 00:00:00', false, true)
+		ProfileTask('', 0, 0, 0, 0, 0, '', false, true)
+		ProfileTask('Frequency Sweep', 0, 0, 0, 0, 0, 'Elapsed time: 00:00:00', false, true)
+		ProfileTask('', 0, 0, 0, 0, 0, '', false, true)
+		ProfileTask('Simulation Summary:', 0, 0, 0, 0, 0, '', false, true)
+		ProfileTask('Frequency Sweep', 0, 0, 0, 0, 0, 'Elapsed time: 00:00:00, total memory: 0 GB', false, true)
+		ProfileTask('', 0, 0, 0, 0, 0, '', false, true)
+		ProfileTask('Solution Process', 0, 0, 0, 0, 0, 'Elapsed time : 00:00:00 , Hfss ComEngine Memory : 55.1 M', false, true)
+	$end 'ProfileGroup'
 $end 'Profile'

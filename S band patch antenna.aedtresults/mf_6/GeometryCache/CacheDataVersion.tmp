@@ -1,5 +1,5 @@
 $begin 'CacheDataVersion'
-	DataVersion=-1
+	DataVersion=12
 $end 'CacheDataVersion'
 $begin 'VariableValues'
 	h='1.56mm'
@@ -17,7 +17,7 @@ $begin 'VariableValues'
 	Gx='83mm'
 	Gy='114.3mm'
 	Zc='50ohm'
-	Ec='1F_per_m'
+	Ec='2.25F_per_m'
 	Di='0.00091meter'
 	Dd='Di*10^(Zc*sqrt(Ec)/138)'
 	FeedX='7mm'

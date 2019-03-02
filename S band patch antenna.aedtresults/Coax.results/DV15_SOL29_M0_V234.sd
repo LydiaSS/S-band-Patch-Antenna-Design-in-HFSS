@@ -37,6 +37,12 @@ $begin 'soln'
 					c(49.80764526967983, 0.02490381640888821)
 				$end 'r0'
 			$end 'Zpv'
+			$begin 'Zvi'
+				n=1
+				$begin 'r0'
+					c(49.95350581616704, 0.02497674666389884)
+				$end 'r0'
+			$end 'Zvi'
 			$begin 'Zwave'
 				n=1
 				$begin 'r0'

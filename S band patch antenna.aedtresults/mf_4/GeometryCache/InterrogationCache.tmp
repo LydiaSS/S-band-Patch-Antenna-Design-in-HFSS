@@ -6,14 +6,10 @@ $begin 'InterrogationCache'
 			IgnoreUnclassifiedObjects=false
 			SkipIntersectionChecks=false
 		$end 'Options'
-		Status=true
+		Status=false
 	$end 'ValidationStatus'
 	$begin 'BodyCaches'
 		$begin '21'
-			$begin 'CheckStatus'
-				CheckLevel=20
-				Status=true
-			$end 'CheckStatus'
 			$begin 'BoundingBox'
 				Low[3: -1.5903388103673406, -1.5903388103673406, 0]
 				High[3: 1.5903388103673406, 1.5903388103673406, 20]
@@ -34,10 +30,6 @@ $begin 'InterrogationCache'
 			$end 'BoundingBox'
 		$end '31'
 		$begin '59'
-			$begin 'CheckStatus'
-				CheckLevel=20
-				Status=true
-			$end 'CheckStatus'
 			$begin 'BoundingBox'
 				Low[3: -1.5903388103673406, -1.5903388103673406, 0]
 				High[3: 1.5903388103673406, 1.5903388103673406, 0]
